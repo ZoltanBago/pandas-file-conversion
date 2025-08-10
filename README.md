@@ -1,21 +1,21 @@
-# pandas-file-conversion
-A Python Pandas könyvtár segítségével Excel és Calc fájlokat olvasunk be és konvertálunk át csv formátumba és vissza. 
+# Python Pandas Projekt | Fájl konverzió 
+A Python Pandas könyvtár segítségével Excel és Calc fájlokat olvasunk be és konvertálunk át csv formátumba. 
 
-A szükséges könyvtárak telepítése
+**1. Feladat** - A szükséges könyvtárak telepítése
 
-A csv fájl beolvasása az adatkeretbe  
+**2. Feladat** - A csv fájl beolvasása az adatkeretbe  
 
-Konvertálás XLSX formátumba
+**3. Feladat** - Konvertálás XLSX formátumba
 
-Konvertálás ODS formátumba
+**4. Feladat** - Konvertálás ODS formátumba
 
-Az XLSX fájl beolvasása
+**5. Feladat** - Az XLSX fájl beolvasása
 
-Az ODS fájl beolvasása
+**6. Feladat** - Az ODS fájl beolvasása
 
-Az XLSX fájl átalakítása CSV formátumba
+**7. Feladat** - Az XLSX fájl átalakítása CSV formátumba
 
-Az ODS fájl átalakítása CSV formátumba
+**8. Feladat** - Az ODS fájl átalakítása CSV formátumba
 
 
 ## Licenc
