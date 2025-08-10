@@ -1,6 +1,9 @@
 # Python Pandas Projekt | Fájl konverzió 
 A Python Pandas könyvtár segítségével Excel és Calc fájlokat olvasunk be és konvertálunk át csv formátumba. 
 
+![](logistics.jpg)
+*Kép forrása: pixabay.com*
+
 **1. Feladat** - A szükséges könyvtárak telepítése
 
 **2. Feladat** - A csv fájl beolvasása az adatkeretbe  
