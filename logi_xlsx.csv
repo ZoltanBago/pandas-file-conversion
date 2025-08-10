@@ -1,0 +1,11 @@
+OrderID,CustomerName,ShipmentDate,DestinationCountry,ProductCategory,WeightKG,ShippingCostUSD,Status
+1001,John Doe,2025-08-01,USA,Electronics,12.5,85.5,Shipped
+1002,Jane Smith,2025-08-02,Germany,Apparel,2.1,35.2,In Transit
+1003,Robert Brown,2025-08-02,Japan,Home Goods,7.8,62.15,Shipped
+1004,Emily White,2025-08-03,USA,Electronics,25.0,150.0,Delivered
+1005,Michael Green,2025-08-04,Brazil,Apparel,1.5,42.75,Shipped
+1006,Sarah Wilson,2025-08-05,UK,Home Goods,15.2,95.3,In Transit
+1007,David Clark,2025-08-06,Canada,Electronics,18.0,110.2,Shipped
+1008,Laura King,2025-08-07,Australia,Apparel,3.4,55.4,Delivered
+1009,Daniel Taylor,2025-08-08,Germany,Home Goods,9.0,78.9,Shipped
+1010,Olivia Harris,2025-08-09,France,Electronics,6.7,59.8,In Transit
